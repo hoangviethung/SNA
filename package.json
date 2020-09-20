@@ -82,7 +82,7 @@
 		"image-map-resizer": "^1.0.10",
 		"intl-tel-input": "^17.0.3",
 		"jquery": "^3.4.1",
-		"lazysizes": "^5.2.0",
+		"lazysizes": "^5.2.1",
 		"linearicons": "^1.0.2",
 		"moment": "^2.26.0",
 		"perfect-scrollbar": "^1.5.0",
